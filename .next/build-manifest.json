@@ -24,10 +24,6 @@
     "/_polyfills": [
       "static/runtime/polyfills.js"
     ],
-    "/auth": [
-      "static/runtime/webpack.js",
-      "static/runtime/main.js"
-    ],
     "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
