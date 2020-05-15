@@ -1,0 +1,26 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "Next js setup",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manpreet-singh10196/Next.Js.git"
+  },
+  "author": "Manpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manpreet-singh10196/Next.Js/issues"
+  },
+  "homepage": "https://github.com/manpreet-singh10196/Next.Js#readme",
+  "dependencies": {
+    "next": "^9.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
